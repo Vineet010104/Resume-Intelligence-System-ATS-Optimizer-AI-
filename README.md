@@ -298,24 +298,4 @@ Open browser → http://localhost:8080
 - 🧮 Improved Fit Score algorithm using BERT-based embeddings
 - 🌐 React Frontend migration for a modern SPA interface
 
----
 
-## 🤝 Contributions
-
-Contributions, issues, and feature requests are welcome!
-Feel free to fork this repo and submit pull requests.
-
----
-
-## 🪪 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
-
----
-
-## ✨ Author
-
-**Said Hisham**  
-💼 Backend Engineer specializing in Java, Spring Boot, and NLP-driven applications  
-🧠 Focused on building scalable microservices with clean architecture and modern DevOps practices  
-🔗 [LinkedIn](https://www.linkedin.com/in/syedhisham41) | [GitHub](https://github.com/syedhisham41)
